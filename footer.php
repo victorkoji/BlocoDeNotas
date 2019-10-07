@@ -7,5 +7,3 @@
 		</div>
 	</div>
 </footer>
-
-<script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
