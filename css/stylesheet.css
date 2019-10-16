@@ -5,3 +5,42 @@ footer{ background-color: transparent; height: 150px; }
 /*Inicio*/
 /*------------------------------------------------------------------------------------------------------------------------*/
 .painel-notas .card{width: 18rem;}
+
+/* Media Queries
+/---------------------------------------------------------------------------- */
+
+	/* Extra large devices (large desktops, 1200px and up) 
+	Para todos as telas menores de Desktop */
+	@media (max-width: 1200px) {
+
+	}
+
+	/* Medium devices (tablets, 768px and up) */
+	@media (max-width: 992px) {
+	}
+
+	/* Small devices (landscape phones, 576px and up) 
+	Para todos os mobiles */
+	@media (max-width: 768px) {
+
+	}
+
+	/* Extra small devices (portrait phones, less than 576px) 
+	Ajustes mais finos podem ser feitos aqui
+	#ATENCAO# utilizar em caso de extrema necessidade */
+	@media (max-width: 576px) {
+
+	}
+	/* Max 425px and up) */
+	@media (max-width: 425px) {
+		
+	}
+	/* Max 375px and up) */
+	@media (max-width: 375px) {
+		
+	}
+
+	/* Max 320px and up) */
+	@media (max-width: 320px) {
+		
+	}

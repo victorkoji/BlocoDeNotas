@@ -7,3 +7,8 @@
 		</div>
 	</div>
 </footer>
+	
+	<script src="https://use.fontawesome.com/f13e8c7359.js"></script>
+	<script src="./js/jquery-3.4.1.min.js"></script>
+	<script src="./js/bootstrap.min.js"></script>
+	<script src="./script.js"></script>

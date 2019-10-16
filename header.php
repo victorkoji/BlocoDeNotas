@@ -6,10 +6,6 @@
 	<link rel="stylesheet" href="./css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/stylesheet.css">
 
-	<script src="https://use.fontawesome.com/f13e8c7359.js"></script>
-	<script src="./js/jquery-3.4.1.min.js"></script>
-	<script src="./js/bootstrap.min.js"></script>
-
 </head>
 
 <header class="sticky-top mb-5">
